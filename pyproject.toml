@@ -1,0 +1,16 @@
+[project]
+name = "time-series-analysis"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "notebook>=7.6.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "prophet>=1.4.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+]
